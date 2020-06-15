@@ -1,0 +1,10 @@
+C:\Users\limna\OneDrive\Desktop\PA9_Limnan\PA9_Limnan\bin\Debug\PA9_Limnan.exe.config
+C:\Users\limna\OneDrive\Desktop\PA9_Limnan\PA9_Limnan\bin\Debug\PA9_Limnan.exe
+C:\Users\limna\OneDrive\Desktop\PA9_Limnan\PA9_Limnan\bin\Debug\PA9_Limnan.pdb
+C:\Users\limna\OneDrive\Desktop\PA9_Limnan\PA9_Limnan\obj\Debug\PA9_Limnan.csprojAssemblyReference.cache
+C:\Users\limna\OneDrive\Desktop\PA9_Limnan\PA9_Limnan\obj\Debug\PA9_Limnan.Form1.resources
+C:\Users\limna\OneDrive\Desktop\PA9_Limnan\PA9_Limnan\obj\Debug\PA9_Limnan.Properties.Resources.resources
+C:\Users\limna\OneDrive\Desktop\PA9_Limnan\PA9_Limnan\obj\Debug\PA9_Limnan.csproj.GenerateResource.cache
+C:\Users\limna\OneDrive\Desktop\PA9_Limnan\PA9_Limnan\obj\Debug\PA9_Limnan.csproj.CoreCompileInputs.cache
+C:\Users\limna\OneDrive\Desktop\PA9_Limnan\PA9_Limnan\obj\Debug\PA9_Limnan.exe
+C:\Users\limna\OneDrive\Desktop\PA9_Limnan\PA9_Limnan\obj\Debug\PA9_Limnan.pdb
