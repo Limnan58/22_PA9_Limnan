@@ -56,6 +56,10 @@ namespace PA9_Limnan
                 {
                     tb2.Text = (currency * 81.97f).ToString();
                 }
+                else if (rb_Ringgit.Checked)
+                {
+                    tb2.Text = (currency * 3.01f).ToString();
+                }
                 if (currency < 0)
                 {
                     tb2.Text = ("Please enter a positive number.");

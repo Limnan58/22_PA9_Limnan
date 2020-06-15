@@ -38,6 +38,7 @@
             this.tb2 = new System.Windows.Forms.TextBox();
             this.btn1 = new System.Windows.Forms.Button();
             this.btn2 = new System.Windows.Forms.Button();
+            this.rb_Ringgit = new System.Windows.Forms.RadioButton();
             this.SuspendLayout();
             // 
             // amount
@@ -94,7 +95,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(102, 313);
+            this.label1.Location = new System.Drawing.Point(102, 339);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(125, 17);
             this.label1.TabIndex = 5;
@@ -103,7 +104,7 @@
             // 
             // tb2
             // 
-            this.tb2.Location = new System.Drawing.Point(250, 308);
+            this.tb2.Location = new System.Drawing.Point(250, 334);
             this.tb2.Name = "tb2";
             this.tb2.Size = new System.Drawing.Size(236, 22);
             this.tb2.TabIndex = 6;
@@ -128,11 +129,23 @@
             this.btn2.UseVisualStyleBackColor = true;
             this.btn2.Click += new System.EventHandler(this.btn2_Click);
             // 
+            // rb_Ringgit
+            // 
+            this.rb_Ringgit.AutoSize = true;
+            this.rb_Ringgit.Location = new System.Drawing.Point(250, 281);
+            this.rb_Ringgit.Name = "rb_Ringgit";
+            this.rb_Ringgit.Size = new System.Drawing.Size(140, 21);
+            this.rb_Ringgit.TabIndex = 10;
+            this.rb_Ringgit.TabStop = true;
+            this.rb_Ringgit.Text = "Malaysian Ringgit";
+            this.rb_Ringgit.UseVisualStyleBackColor = true;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.rb_Ringgit);
             this.Controls.Add(this.btn2);
             this.Controls.Add(this.btn1);
             this.Controls.Add(this.tb2);
@@ -162,6 +175,7 @@
         private System.Windows.Forms.TextBox tb2;
         private System.Windows.Forms.Button btn1;
         private System.Windows.Forms.Button btn2;
+        private System.Windows.Forms.RadioButton rb_Ringgit;
     }
 }
 
